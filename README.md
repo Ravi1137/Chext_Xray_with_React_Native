@@ -3,7 +3,8 @@ first install node.js
 open this project on visual studio
 go to terminal 
 install react native by foloowing command
-npm install -g react-native-cli
+npm install -g expo-cli
+expo init ./
 # install dependencies --
 # run the following command in terminal ----
 npm install @react-navigation/native
